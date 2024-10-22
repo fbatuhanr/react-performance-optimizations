@@ -3,7 +3,7 @@
 This project demonstrates several techniques to improve performance in React applications. Each optimization is shown in a separate component, and all the examples are combined in the `App.tsx` file.
 
 You can also read the full explanation of these techniques in my Medium article:  
-[React Performance Optimizations - Medium](your-medium-article-link)
+[React Performance Optimizations - Medium](https://fbatuhanr.medium.com/understanding-react-performance-optimizations-techniques-dc38e794d973)
 
 ## Components Included
 

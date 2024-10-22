@@ -1,0 +1,6 @@
+* { margin:0; padding:0; }
+#root > div {
+    margin:1rem;
+    padding:1.5rem;
+    border-bottom: 1px solid #cccccc;
+}

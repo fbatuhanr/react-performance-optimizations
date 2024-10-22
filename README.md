@@ -53,9 +53,12 @@ You can also read the full explanation of these techniques in my Medium article:
     - PureComponentExample.tsx
     - LazyLoadingImagesExample.tsx
   - App.tsx
-  - index.tsx
+  - main.tsx
   ````
 
 ## Conclusion
 
 These examples show different ways to optimize your React apps for better performance. Each technique can help your app run faster, especially as it grows larger. Feel free to explore and use them in your own projects!
+
+![react-performance-optimizations](https://github.com/user-attachments/assets/2ef75d0f-37c3-49b3-8709-ad13fd5a4331)
+
